@@ -1,1 +1,1 @@
-Hello There, I am working on a shell made in rust (krab)
+Hello There, I am working on a shell (krab)
